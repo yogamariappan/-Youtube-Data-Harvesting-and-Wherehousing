@@ -1,6 +1,6 @@
-**# YouTube Data Harvesting and Warehousing**
+# YouTube Data Harvesting and Warehousing
 
-**## Introduction**
+## Introduction
 
 YouTube Data Harvesting and Warehousing is a project that aims to allow users to access 
 
@@ -10,7 +10,7 @@ and Streamlit to create a user-friendly application that allows users to retriev
 
 query YouTube channel and video data.
 
-**## Project Overview**
+## Project Overview
 
 The YouTube Data Harvesting and Warehousing project consists of the following components:
 
@@ -34,7 +34,7 @@ for efficient querying and analysis using SQL queries.
 
 features, enabling users to analyze the data through charts and graphs.
 
-**## Technologies Used**
+## Technologies Used
 
 The following technologies are used in this project:
 
