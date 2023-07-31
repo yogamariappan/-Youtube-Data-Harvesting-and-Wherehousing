@@ -1,6 +1,6 @@
-# YouTube Data Harvesting and Warehousing
+**# YouTube Data Harvesting and Warehousing**
 
-## Introduction
+**## Introduction**
 
 YouTube Data Harvesting and Warehousing is a project that aims to allow users to access 
 
@@ -10,7 +10,7 @@ and Streamlit to create a user-friendly application that allows users to retriev
 
 query YouTube channel and video data.
 
-## Project Overview
+**## Project Overview**
 
 The YouTube Data Harvesting and Warehousing project consists of the following components:
 
@@ -34,29 +34,29 @@ for efficient querying and analysis using SQL queries.
 
 features, enabling users to analyze the data through charts and graphs.
 
-Technologies Used
+**## Technologies Used**
 
 The following technologies are used in this project:
 
-- Python: The programming language used for building the application and scripting 
+- **Python:** The programming language used for building the application and scripting 
 tasks.
 
-- Streamlit: A Python library used for creating interactive web applications and data 
+- **Streamlit:** A Python library used for creating interactive web applications and data 
 visualizations.
 
-- YouTube API: Google API is used to retrieve channel and video data from YouTube.
+- **YouTube API:** Google API is used to retrieve channel and video data from YouTube.
 
-- MongoDB: A NoSQL database used as a data lake for storing retrieved YouTube data.
+- **MongoDB:** A NoSQL database used as a data lake for storing retrieved YouTube data.
 
-- SQL (MySQL): A relational database used as a data warehouse for storing migrated 
+- **SQL (MySQL):** A relational database used as a data warehouse for storing migrated 
 
 YouTube data.
 
-- SQLAlchemy: A Python library used for SQL database connectivity and interaction.
+- **SQLAlchemy:** A Python library used for SQL database connectivity and interaction.
 
-- Pandas: A data manipulation library used for data processing and analysis.
+- **Pandas:** A data manipulation library used for data processing and analysis.
 
-- Matplotlib: A data visualization library used for creating charts and graphs.
+- **Matplotlib:** A data visualization library used for creating charts and graphs.
 
 ## Installation and Setup
 
@@ -139,7 +139,7 @@ the YouTube API, storing it in a MongoDB datalake, migrating it to a SQL data wa
       
 querying the data warehouse with SQL, and displaying the data in the Streamlit app.
 
- + interact with the application and perform data retrieval and analysis tasks. +
+
          
 ## Refference:
 
