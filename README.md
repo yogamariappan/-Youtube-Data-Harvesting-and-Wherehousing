@@ -138,6 +138,8 @@ visualization features to create charts and graphs to help users analyze the dat
 the YouTube API, storing it in a MongoDB datalake, migrating it to a SQL data warehouse, 
       
 querying the data warehouse with SQL, and displaying the data in the Streamlit app.
+
+ + interact with the application and perform data retrieval and analysis tasks. +
          
 ## Refference:
 
